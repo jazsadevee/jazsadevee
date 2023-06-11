@@ -10,6 +10,7 @@ Nature is my sanctuary, and hiking is one of my favorite pastimes. The tranquili
 
 I'm constantly striving to learn and grow, staying up-to-date with the latest industry trends and technologies. With my diverse skill set, unwavering commitment to excellence, and passion for innovation, I am poised to make a significant impact in the world of software development. My goal is to create immersive digital experiences that leave a lasting impression.
 
+
 ## Reach Me At...
 Jazsadevee@gmail.com
 
