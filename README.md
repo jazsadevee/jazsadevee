@@ -1,15 +1,15 @@
 ### Hi! I'm Jasmine 'Jas' Villanueva
 
-My goal is to be a Full Stack Developer 
+My ultimate goal is to be an active Full Stack Developer, currently my focus is Frontend Software Engineer.
 
-- 🛫 I love traveling and learning new cultures
-- 💆🏽‍♀️ I'm a certified advance Esthetician 
+- 🛫 I love traveling and experiencing new cultures
+- 💆🏽‍♀️ I'm a certified Advance Esthetician 
 - 🎒 I love to hike 
 
-- ⚡ Fun fact: I once went on a 18 hour road trip because the scenery was so pretty
+- ⚡ Fun fact: I once went on a 18 hour road trip simply because the scenery was so breathtaking 
 
 
 ## Reach Me At...
 Jazsadevee@gmail.com
 
-Linkedin.com/jasminevillanueva555/
+Linkedin.com/jasminevillanuevadev/
