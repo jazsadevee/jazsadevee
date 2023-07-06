@@ -12,6 +12,6 @@ I'm constantly striving to learn and grow, staying up-to-date with the latest in
 
 
 ## Reach Me At...
-Jazsadevee@gmail.com
+jasminevillanuevadev@gmail.com
 
 Linkedin.com/jasminevillanuevadev/
