@@ -15,3 +15,5 @@ I'm constantly striving to learn and grow, staying up-to-date with the latest in
 jasminevillanuevadev@gmail.com
 
 Linkedin.com/jasminevillanuevadev/
+
+jasminevillanueva-resume.vercel.app
