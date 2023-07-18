@@ -16,4 +16,4 @@ jasminevillanuevadev@gmail.com
 
 Linkedin.com/jasminevillanuevadev/
 
-jasminevillanueva-resume.vercel.app
+https://jasminevillanueva-portfolio.vercel.app/
