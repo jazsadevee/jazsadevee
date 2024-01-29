@@ -1,6 +1,6 @@
 ## Hi! I'm Jasmine 'Jas' Villanueva 🖤 
 
-I'm a Frontend Software Engineer with a strong passion for becoming an active Full Stack Developer. I thrive on creating captivating and user-friendly interfaces that elevate the overall user experience.
+Full Stack Software Engineer with a strong passion for Frontend Developement, and really into crafting smooth and user-friendly websites and apps. I'm all about making the digital experience top-notch.
 <br>
 
 Adventurous Spirit 🏔️  | Roadtrip Extraordinaire 🗺🚗  | Book Lover 📚
